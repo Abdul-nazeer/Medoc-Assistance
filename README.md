@@ -1,7 +1,6 @@
 # **Medoc - AI Healthcare Assistant 🤖💉**
 Your AI-powered medical assistant for **instant, reliable healthcare insights**.  
-
-![Medoc Banner](https://via.placeholder.com/1200x400?text=Medoc+AI+Healthcare+Assistant)  
+ 
 
 ---
 
