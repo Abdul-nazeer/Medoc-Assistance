@@ -15,13 +15,12 @@ Your AI-powered medical assistant for **instant, reliable healthcare insights**.
 
 ## **✨ Key Features**  
 
-✅ **AI-Powered Medical Chatbot** – Delivers quick, verified medical responses.  
-✅ **FAISS Vector Search** – Retrieves accurate medical insights from a knowledge base.  
-✅ **LLM-Based Intelligent Answers** – Uses **Ollama LLMs** for human-like conversations.  
-✅ **Search History Management** – Stores, retrieves, and clears user queries.  
-✅ **User-Friendly UI** – Built with **Chainlit** for an interactive chatbot experience.  
-✅ **Optimized Response Time** – **Answers within 3 seconds**, ensuring a smooth experience.  
-✅ **Efficient Token Management** – Average of **120 tokens per response** for accuracy and efficiency.  
+✅ **AI-Powered Medical Chatbot** – Provides accurate, LLM-generated responses.  
+✅ **FAISS Vector Search** – Retrieves relevant medical information efficiently.  
+✅ **Search History Management** – Saves, retrieves, and clears user queries.  
+✅ **Chainlit UI Integration** – Ensures an intuitive and interactive chatbot experience.  
+✅ **Optimized Response Time** – Answers queries within **3 seconds**.  
+✅ **Efficient Token Management** – Manages queries effectively for concise responses.  
 
 ---
 
