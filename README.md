@@ -2,14 +2,14 @@ Medoc - AI Healthcare Assistant 🤖💉
 Your AI-powered medical assistant for instant, reliable healthcare insights.
 
 
-🌟 Overview
+##🌟 Overview
 Medoc is an AI-driven healthcare assistant designed to provide accurate medical insights using LLMs (Ollama), FAISS-based vector search, and LangChain. Built for seamless interaction, Medoc can retrieve medical knowledge, assist with health-related queries, and maintain search history for user convenience.
 
 🌍 Designed for Healthcare Professionals & Patients
 🚀 Fast & Efficient Medical Q&A Retrieval
 🧠 Powered by AI & ML for Smart Responses
 
-✨ Key Features
+##✨ Key Features
 ✅ AI-Powered Medical Chatbot – Delivers quick, verified medical responses.
 ✅ FAISS Vector Search – Retrieves accurate medical insights from a knowledge base.
 ✅ LLM-Based Intelligent Answers – Uses Ollama LLMs for human-like conversations.
